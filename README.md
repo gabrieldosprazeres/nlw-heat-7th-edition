@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="DoWhile2021" title="#DoWhile2021" src="./assets/logo.svg" />
+    <img alt="DoWhile2021" title="#DoWhile2021" src="./assets/banner.svg" />
 </h1>
 
 <h4 align="center"> 
