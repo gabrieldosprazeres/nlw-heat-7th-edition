@@ -1,15 +1,3 @@
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabrieldosprazeres/nlw-heat-7th-edition?style=for-the-badge">
-
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gabrieldosprazeres/nlw-heat-7th-edition?style=for-the-badge">
-  
-  <a href="https://github.com/gabrieldosprazeres/nlw-heat-7th-edition/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gabrieldosprazeres/nlw-heat-7th-edition?style=for-the-badge">
-  </a>
-    
-   <img alt="GitHub" src="https://img.shields.io/github/license/gabrieldosprazeres/nlw-heat-7th-edition?style=for-the-badge">
-</p>
-
 <h1 align="center">
     <img alt="DoWhile2021" title="#DoWhile2021" src="./assets/banner.svg" />
 </h1>
@@ -44,12 +32,12 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 ## 🚀 Como executar o projeto
 
-Este projeto é divido em três partes:
+Este projeto é dividido em duas partes:
 
 1. BackEnd (pasta server)
 2. FrontEnd (pasta web)
 
-💡O FrontEnd que o BackEnd esteja sendo executado para funcionar.
+💡O FrontEnd precisa que o BackEnd esteja sendo executado para funcionar.
 
 ### Pré-requisitos
 
@@ -57,7 +45,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-#### 🎲 Rodando o BackEnd (servidor)
+#### 🎲 Rodando o BackEnd (Servidor - API)
 
 ```bash
 
@@ -80,7 +68,7 @@ $ yarn dev
 
 ```
 
-#### 🧭 Rodando a aplicação web (FrontEnd)
+#### 🧭 Rodando o FrontEnd (Aplicação Web)
 
 ```bash
 
@@ -116,9 +104,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[Axios](https://github.com/axios/axios)**
 - **[Socket.io](https://socket.io/)**
 
-> Veja o arquivo [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/web/package.json)
+> Veja o arquivo [package.json](https://github.com/gabrieldosprazeres/nlw-heat-7th-edition/blob/master/web/package.json)
 
-#### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**Server** ([NodeJS](https://nodejs.org/en/) + [TypeScript](https://www.typescriptlang.org/))
+#### **Server** ([NodeJS](https://nodejs.org/en/) + [TypeScript](https://www.typescriptlang.org/))
 
 - **[Express](https://expressjs.com/)**
 - **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
@@ -126,7 +114,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[ts-node](https://github.com/TypeStrong/ts-node)**
 - **[dotENV](https://github.com/motdotla/dotenv)**
 
-> Veja o arquivo [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/server/package.json)
+> Veja o arquivo [package.json](https://github.com/gabrieldosprazeres/nlw-heat-7th-edition/blob/master/server/package.json)
 
 ---
 
